@@ -1,0 +1,1 @@
+When the user will get the token in home screen he will validate as he wish
